@@ -4,7 +4,7 @@ Scripts to automate architectural CAD workflows in Adobe Photoshop using ExtendS
 
 ## 📂 Contents
 
-- `CreatePSDFromPDF.jsx`  
+- `batchPDFtoPSD.jsx`  
   Converts a batch of CAD PDFs into Photoshop PSDs. Each PDF will be placed as a Smart Object layer named **"Cad Drawing - [FileName]"**.
 
 - `UpdateSmartObjects.jsx`  
