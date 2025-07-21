@@ -1,4 +1,5 @@
 ﻿/**
+ * Author: Damla Kaya (drawnwithcode)
  * Converts PDF files to PSD using MediaBox and Smart Object conversion via Action.
  * Compatible with Adobe Photoshop CS6.
  */
