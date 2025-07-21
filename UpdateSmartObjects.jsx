@@ -1,4 +1,5 @@
 ﻿/**
+ * Author: Damla Kaya (drawnwithcode)
  * Updates Smart Object layers named "Cad Drawing - <filename>"
  * by replacing their content with updated PDF files.
  * Compatible with Adobe Photoshop CS6.
